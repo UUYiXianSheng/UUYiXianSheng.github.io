@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 技术支持 
 ---
@@ -6,7 +6,7 @@ title: 技术支持
 博客源码在 <a target="_blank" href='https://github.com/UUYiXianSheng/UUYiXianSheng.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
 
-遇到问题请先自行排查，可以直接在[Issues](https://https://github.com/UUYiXianSheng/UUYiXianSheng.github.io/issues)里面提问，不过回复的可能不及时。
+遇到问题请先自行排查，可以直接在[Issues](https://github.com/UUYiXianSheng/UUYiXianSheng.github.io/issues)里面提问，不过回复的可能不及时。
 
 也可以在内容下方的评论区提问。
 
