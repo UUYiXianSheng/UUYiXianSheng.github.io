@@ -15,7 +15,7 @@ tags: xlsx
 $ yum install unoconv –y
 ```    
 
-执行命令安装unoconv，unoconv是一个强大的处理办公文件，图片文件，数据表文件转换的命令。
+执行命令安装unoconv，unoconv是一个强大的办公文件，图片文件，数据表文件转换的命令。
 
 ![](/images/blog/yumUnoconv.jpg)
 
